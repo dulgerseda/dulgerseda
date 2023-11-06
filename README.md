@@ -2,9 +2,7 @@
 - 👀 I’m interested in Data Science, AI and Machine Learning
 - 🌱 I’m currently learning Python and I'm participant at Miuul Data Scientist Bootcampo
 - 💞️ I’m looking to collaborate on Data Science
-- 📫 How to reach me: havvasedadulger@gmail.com,
-                       https://www.kaggle.com/sedadlger,
-                        https://www.linkedin.com/in/havva-seda-d%C3%BClger-68572477/
+- 📫 How to reach me: havvasedadulger@gmail.com, https://www.kaggle.com/sedadlger, https://www.linkedin.com/in/havva-seda-d%C3%BClger-68572477/
 
 <!---
 dulgerseda/dulgerseda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
